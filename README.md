@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sikai Bai
 
 <!--
-**White1973/White1973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+White1973/White1973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
